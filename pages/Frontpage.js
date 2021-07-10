@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import bandNameImage from "../public/bandnameLogo.png";
+import bandNameImage from "../public/bandnamelogo.png";
 import bandPhoto from "../public/band_phot.png";
 
 function LinksBar() {
